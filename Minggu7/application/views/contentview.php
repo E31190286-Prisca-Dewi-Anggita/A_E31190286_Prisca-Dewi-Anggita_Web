@@ -1,0 +1,1 @@
+<p> contoh penerapan multiple view yang di panggil dari satu controller </P>
